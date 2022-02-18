@@ -1,6 +1,6 @@
 ### Hi there 👋
-#####  I'm junior backend developer.
-##### I'm also interested in server, cloud, data science.
+#####  I'm ssssujini99, junior backend developer.
+##### I'm also interested in server, cloud and data science.
 
 ####
 ####
