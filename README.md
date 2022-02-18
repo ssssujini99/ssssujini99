@@ -1,9 +1,8 @@
 ### Hi there 👋
-#####  I'm ssssujini99, junior backend developer.
-##### I'm also interested in server, cloud and data science.
+I'm ssssujini99, junior backend developer.   
+I'm also interested in server, cloud and data science.
 
-####
-####
+
 
 ![ssssujini's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssssujini99&show_icons=true&theme=gruvbox)
 
