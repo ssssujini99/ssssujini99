@@ -16,7 +16,8 @@ I'm also interested in server, cloud and data science.
 
 # 🛠 Tech Stack 🛠
 ### 📌 Programming Language
-![](https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/c-A8B9CC?style=flat&logo=C&logoColor=white) ![](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)  ![](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white) ![](https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/c-A8B9CC?style=flat&logo=C&logoColor=white) ![](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)  ![](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)   
+![](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white) ![](https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white)
 
 
 ### 📌 Framework
