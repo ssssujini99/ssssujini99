@@ -69,4 +69,4 @@ I'm also interested in server, cloud and devops!
 ## 📞 contact
 
 * email: sssssjin99@naver.com
-* ![](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white) [](https://www.instagram.com/ssssujini99/)
+* ![https://www.instagram.com/ssssujini99/](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)
