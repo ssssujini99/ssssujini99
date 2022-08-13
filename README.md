@@ -38,6 +38,7 @@ I'm also interested in server, cloud and devops!
 |년도|활동|
 |------|---|
 |2019.03 ~ 현재|홍익대학교 컴퓨터공학과 |
+|2021.01 ~ 2021.02|읽은 책을 기록하고 추천해주는 서비스 [bookManager](https://github.com/ssssujini99/bookManagerWeb) 백엔드|
 |2021.09 ~ 2022.02|신촌연합 IT 창업동아리 [CEOS](https://github.com/CEOS-Developers) 14기 백엔드|
 |2022.12 ~ 2022.06|전문가가 제공해주는 TODO서비스 [마이플랜잇](https://github.com/MyPlanIt/MyPlanIt_Back) 팀 MVP 백엔드 개발자|
 |2022.02 ~ 현재|칵테일 추천 어플리케이션 [오쥬](https://github.com/cocktail-Ohzu/Ohzu-BackEnd) 백엔드 개발자|
