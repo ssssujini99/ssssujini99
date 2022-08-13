@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm ssssujini99, backend developer.   
-I'm also interested in server, cloud and Devops!
+I'm also interested in server, cloud and devops!
 
 
 
