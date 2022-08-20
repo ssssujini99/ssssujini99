@@ -69,4 +69,11 @@ I'm also interested in server, cloud and devops!
 ## 📞 contact
 
 * email: sssssjin99@naver.com
-* ![https://www.instagram.com/ssssujini99/](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)
+<a href="https://velog.io/@ssssujini99">
+  <img src="http://img.shields.io/badge/-Velog-green?style=flat-square&logo=Vine"
+  style ="height:25px; margin-left:10px; margin-right:10px; text-align: center;"/>
+</a>
+<a href="https://www.instagram.com/ssssujini99/">
+  <img src="http://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram"
+  style ="height:25px; margin-left:10px; margin-right:10px; text-align: center;"/>
+</a>
