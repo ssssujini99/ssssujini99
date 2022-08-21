@@ -45,6 +45,7 @@ I'm also interested in server, cloud and devops!
 |2022.03 ~ 2022.08|신촌연합 IT 창업동아리 [CEOS](https://github.com/CEOS-Developers) 15기 백엔드 팀장|
 |2022.07 ~ 현재|전국 IT 연합동아리 [DND](https://github.com/dnd-side-project) 7기 백엔드|
 |2022.08 ~ 현재|내 손 안의 간편한 날씨, [한줄날씨](https://github.com/dnd-side-project/dnd-7th-4-backend) 백엔드 개발자|
+|2022.08 ~ 현재|Google Developer Student Clubs Hongik.Univ 백엔드 코어 멤버|
 
 </br>
 
