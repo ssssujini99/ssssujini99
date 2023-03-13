@@ -46,7 +46,8 @@ I'm also interested in server, cloud and devops!
 |2022.07 ~ 2022.08|전국 IT 연합동아리 [DND](https://github.com/dnd-side-project) 7기 백엔드|
 |2022.08 ~ 2022.09|내 손 안의 간편한 날씨, [한줄날씨](https://github.com/dnd-side-project/dnd-7th-4-backend) 백엔드 개발자|
 |2022.08 ~ 현재|Google Developer Student Clubs Hongik.Univ 백엔드 코어 멤버|
-|2023.01 ~ 현재|전국 IT 연합동아리 [DND](https://github.com/dnd-side-project) 8기 백엔드|
+|2023.01 ~ 2022.02|전국 IT 연합동아리 [DND](https://github.com/dnd-side-project) 8기 백엔드|
+|2023.01 ~ 현재|약속 시간 조율 서비스, [모두의 시간](https://github.com/dnd-side-project/dnd-8th-5-backend) 백엔드 개발자|
 
 
 </br>
