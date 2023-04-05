@@ -18,7 +18,7 @@ I'm also interested in server, cloud and devops!
 ![](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 
 ### 📌 Server
-![](https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white) ![](https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white)
+![](https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white)
 
 
 ### 📌 Database
@@ -48,7 +48,7 @@ I'm also interested in server, cloud and devops!
 |2022.08 ~ 현재|Google Developer Student Clubs Hongik.Univ 백엔드 코어 멤버|
 |2023.01 ~ 2022.02|전국 IT 연합동아리 [DND](https://github.com/dnd-side-project) 8기 백엔드|
 |2023.01 ~ 현재|약속 시간 조율 서비스, [모두의 시간](https://github.com/dnd-side-project/dnd-8th-5-backend) 백엔드 개발자|
-
+|2023.04 ~ 현재| [디프만](https://github.com/depromeet) 13기 백엔드 개발자|
 
 </br>
 
