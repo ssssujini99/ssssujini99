@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm ssssujini99, backend developer.   
-I'm also interested in server, cloud and devops!
+안녕하세요,   
+동반 성장을 추구하는 백엔드 개발자 이수진입니다
 
 
 
@@ -15,14 +15,11 @@ I'm also interested in server, cloud and devops!
 
 
 ### 📌 Framework
-![](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
-
-### 📌 Server
-![](https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white)
+![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white) ![](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
 
 ### 📌 Database
-![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=white) ![](https://img.shields.io/badge/Amaozon_S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Amaozon_S3-569A31?style=flat&logo=amazons3&logoColor=white)
 
 ### 📌 Deploy
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -47,7 +44,8 @@ I'm also interested in server, cloud and devops!
 |2022.08 ~ 현재|Google Developer Student Clubs Hongik.Univ 백엔드 코어 멤버|
 |2023.01 ~ 2022.02|전국 IT 연합동아리 [DND](https://github.com/dnd-side-project) 8기 백엔드|
 |2023.01 ~ 현재|약속 시간 조율 서비스, [모두의 시간](https://github.com/dnd-side-project/dnd-8th-5-backend) 백엔드 개발자|
-|2023.04 ~ 현재| [디프만](https://github.com/depromeet) 13기 백엔드 개발자|
+|2023.04 ~ 2022.07| [디프만](https://github.com/depromeet) 13기 백엔드 개발자|
+|2023.04 ~ 현재|동료의 익명 피드백을 통한 커리어 브랜딩 서비스, [Na Lab](https://github.com/depromeet/na-lab-server) 백엔드 개발자|
 
 </br>
 
