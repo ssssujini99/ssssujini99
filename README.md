@@ -37,7 +37,6 @@
 |2019.03 ~ 현재|홍익대학교 컴퓨터공학과 재학중|
 |2021.09 ~ 2022.02|신촌연합 IT 창업동아리 [CEOS](https://github.com/CEOS-Developers) 14기 백엔드|
 |2022.12 ~ 2022.06|전문가가 제공해주는 TODO서비스 [마이플랜잇](https://github.com/MyPlanIt/MyPlanIt_Back) 팀 MVP 백엔드 개발자|
-|2022.02 ~ 2022.08|칵테일 추천 어플리케이션 [오쥬](https://github.com/cocktail-Ohzu/Ohzu-BackEnd) 백엔드 개발자|
 |2022.03 ~ 2022.08|신촌연합 IT 창업동아리 [CEOS](https://github.com/CEOS-Developers) 15기 백엔드 팀장|
 |2022.07 ~ 2022.08|전국 IT 연합동아리 [DND](https://github.com/dnd-side-project) 7기 백엔드|
 |2022.08 ~ 2022.09|내 손 안의 간편한 날씨, [한줄날씨](https://github.com/dnd-side-project/dnd-7th-4-backend) 백엔드 개발자|
