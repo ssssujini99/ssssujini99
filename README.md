@@ -10,8 +10,7 @@
 
 ## 🛠 Tech Stack 🛠
 ### 📌 Programming Language
-![](https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/c-A8B9CC?style=flat&logo=C&logoColor=white) ![](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)  ![](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![](https://img.shields.io/badge/Java-00599C?style=flat-square&logo=Java&logoColor=white)   
-![](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white) ![](https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Java-00599C?style=flat-square&logo=Java&logoColor=white) ![](https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/c-A8B9CC?style=flat&logo=C&logoColor=white) ![](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)   
 
 
 ### 📌 Framework
@@ -36,15 +35,11 @@
 |------|---|
 |2019.03 ~ 현재|홍익대학교 컴퓨터공학과 재학중|
 |2021.09 ~ 2022.02|신촌연합 IT 창업동아리 [CEOS](https://github.com/CEOS-Developers) 14기 백엔드|
-|2022.12 ~ 2022.06|전문가가 제공해주는 TODO서비스 [마이플랜잇](https://github.com/MyPlanIt/MyPlanIt_Back) 팀 MVP 백엔드 개발자|
 |2022.03 ~ 2022.08|신촌연합 IT 창업동아리 [CEOS](https://github.com/CEOS-Developers) 15기 백엔드 팀장|
 |2022.07 ~ 2022.08|전국 IT 연합동아리 [DND](https://github.com/dnd-side-project) 7기 백엔드|
-|2022.08 ~ 2022.09|내 손 안의 간편한 날씨, [한줄날씨](https://github.com/dnd-side-project/dnd-7th-4-backend) 백엔드 개발자|
-|2022.08 ~ 현재|Google Developer Student Clubs Hongik.Univ 백엔드 코어 멤버|
-|2023.01 ~ 2022.02|전국 IT 연합동아리 [DND](https://github.com/dnd-side-project) 8기 백엔드|
-|2023.01 ~ 현재|약속 시간 조율 서비스, [모두의 시간](https://github.com/dnd-side-project/dnd-8th-5-backend) 백엔드 개발자|
+|2022.08 ~ 2023.08|Google Developer Student Clubs Hongik.Univ 백엔드 코어 멤버|
+|2023.01 ~ 2023.02|전국 IT 연합동아리 [DND](https://github.com/dnd-side-project) 8기 백엔드|
 |2023.04 ~ 2022.07| [디프만](https://github.com/depromeet) 13기 백엔드 개발자|
-|2023.04 ~ 현재|동료의 익명 피드백을 통한 커리어 브랜딩 서비스, [Na Lab](https://github.com/depromeet/na-lab-server) 백엔드 개발자|
 
 </br>
 
