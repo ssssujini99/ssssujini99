@@ -31,15 +31,22 @@
 
 ## 👩🏻‍💻 My career
 
-|년도|활동|
-|------|---|
-|2019.03 ~ 현재|홍익대학교 컴퓨터공학과 재학중|
-|2021.09 ~ 2022.02|신촌연합 IT 창업동아리 [CEOS](https://github.com/CEOS-Developers) 14기 백엔드|
-|2022.03 ~ 2022.08|신촌연합 IT 창업동아리 [CEOS](https://github.com/CEOS-Developers) 15기 백엔드 팀장|
-|2022.07 ~ 2022.08|전국 IT 연합동아리 [DND](https://github.com/dnd-side-project) 7기 백엔드|
-|2022.08 ~ 2023.08|Google Developer Student Clubs Hongik.Univ 백엔드 코어 멤버|
-|2023.01 ~ 2023.02|전국 IT 연합동아리 [DND](https://github.com/dnd-side-project) 8기 백엔드|
-|2023.04 ~ 2022.07| [디프만](https://github.com/depromeet) 13기 백엔드 개발자|
+
+  <div align=left>
+
+  <li>홍익대학교 컴퓨터공학과 <sub>(2019.03 ~ 2024.02(졸업예정))</sub></li>
+  <li><a href="https://github.com/CEOS-Developers">CEOS 14기 백엔드</a> <sub>(2021.09 ~ 2022.02)</sub></li>
+  <li><a href="https://github.com/CEOS-Developers">CEOS 15기 백엔드 팀장</a> <sub>(2022.03 ~ 2022.08)</sub></li>
+  <li><a href="https://github.com/dnd-side-project">DND 7기 백엔드</a> <sub>(2021.09 ~ 2022.02)</sub></li>
+  <li><a href="https://github.com/depromeet">디프만 14기 백엔드</a> <sub>(2023.03 ~ 2023.07)</sub></li>
+  <li><a href="https://github.com/GDSC-Hongik">GDSC Hongik</a> Backend Core member <sub>(2022.09 ~ 2023.08)</sub></li>
+  <li><a href="https://certi.programmers.co.kr/result/share/2465?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community">프로그래머스 PCCP 코딩역량인증시험</a> Java Lv4 취득 <sub> (2023.09)</sub></li>
+<br/>
+
+<li><a href="https://github.com/depromeet/na-lab-server">디프만 13기</a> : <sub>동료의 익명 피드백을 통한 나의 커리어 브랜딩 서비스(디프만 대상) </sub><a href="https://www.nalab.me">Na Lab</a> 백엔드 개발</li>
+<li><a href="https://github.com/dnd-side-project/dnd-8th-5-backend">DND 8기</a> : <sub>가장 쉽고 빠른 약속 만들기 서비스</sub> <a href="https://modutime.site">모두의 시간</a> 백엔드 개발</li>
+<li><a href="https://github.com/dnd-side-project/dnd-7th-4-backend">DND 7기</a> : <sub>빠르고 직관적인 날씨 체감을 통해 일상생활 결정을 돕는 날씨 정보 서비스</sub> 한줄날씨 백엔드 개발</li>
+<li><a href="https://github.com/MyPlanIt/MyPlanIt_Back">CEOS 14기</a> : <sub>전문가가 매일 해야 할 Todo를 알려주는 서비스</sub> 마이플랜잇 백엔드 개발</li>
 
 </br>
 
