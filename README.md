@@ -1,13 +1,3 @@
-### Hi there 👋
-
-안녕하세요,   
-동반 성장을 추구하는 백엔드 개발자 이수진입니다
-
-
-
----
-
-
 ### 🛠 My Tech Stack 🛠
 
 ![](https://img.shields.io/badge/Java-00599C?style=flat-square&logo=Java&logoColor=white) ![](https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/c-A8B9CC?style=flat&logo=C&logoColor=white) ![](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
