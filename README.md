@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 안녕하세요,   
 동반 성장을 추구하는 백엔드 개발자 이수진입니다
@@ -8,32 +8,28 @@
 ---
 
 
-## 🛠 Tech Stack 🛠
-### 📌 Programming Language
-![](https://img.shields.io/badge/Java-00599C?style=flat-square&logo=Java&logoColor=white) ![](https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/c-A8B9CC?style=flat&logo=C&logoColor=white) ![](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)   
+### 🛠 My Tech Stack 🛠
 
-
-### 📌 Framework
+![](https://img.shields.io/badge/Java-00599C?style=flat-square&logo=Java&logoColor=white) ![](https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/c-A8B9CC?style=flat&logo=C&logoColor=white) ![](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
+</br>
 ![](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white) ![](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-
-### 📌 Database
+</br>
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Amaozon_S3-569A31?style=flat&logo=amazons3&logoColor=white)
-
-### 📌 Deploy
+</br>
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-### 📌 Tools
+</br>
 ![](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white) ![](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white) ![](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white) ![](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![](https://img.shields.io/badge/Slack-4A15AB?style=flat&logo=slack&logoColor=white) ![](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white)
 
 
 ---
 
-## 👩🏻‍💻 My career
+### 👩🏻‍💻 My career
 
 
   <div align=left>
 
+  <li>현대오토에버 CCS Backend Developer <sub>(2024.01~)</li>
+  </br>
   <li>홍익대학교 컴퓨터공학과 <sub>(2019.03 ~ 2024.02(졸업예정))</sub></li>
   <li><a href="https://github.com/CEOS-Developers">CEOS 14기 백엔드</a> <sub>(2021.09 ~ 2022.02)</sub></li>
   <li><a href="https://github.com/CEOS-Developers">CEOS 15기 백엔드 팀장</a> <sub>(2022.03 ~ 2022.08)</sub></li>
@@ -55,10 +51,6 @@
 ---
 
 </br>
-
-![ssssujini's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssssujini99&show_icons=true&theme=gruvbox)
-
-
 
 
 
