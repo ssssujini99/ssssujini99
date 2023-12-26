@@ -53,7 +53,3 @@
 ## 📞 contact
 
 * email: sssssjin99@naver.com
-<a href="https://velog.io/@ssssujini99">
-  <img src="http://img.shields.io/badge/-Velog-green?style=flat-square&logo=Vine"
-  style ="height:25px; margin-left:10px; margin-right:10px; text-align: center;"/>
-</a>
