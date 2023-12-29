@@ -27,7 +27,7 @@
   <li><a href="https://github.com/dnd-side-project">DND 8기 백엔드</a> <sub>(2023.01 ~ 2023.02)</sub></li>
   <li><a href="https://github.com/depromeet">디프만 14기 백엔드</a> <sub>(2023.03 ~ 2023.07)</sub></li>
   <li><a href="https://github.com/GDSC-Hongik">GDSC Hongik</a> Backend Core member <sub>(2022.09 ~ 2023.08)</sub></li>
-  <li><a href="https://certi.programmers.co.kr/result/share/2465?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community">프로그래머스 PCCP 코딩역량인증시험</a> Java Lv4 취득 <sub> (2023.09)</sub></li>
+  <li><a href="https://certi.programmers.co.kr/result/share/2465?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community">프로그래머스 PCCP 코딩역량인증시험 Java Lv4 취득</a><sub> (2023.09)</sub></li>
   <li><a href="https://github.com/prgrms-be-devcourse">프로그래머스 백엔드 데브코스 5기</a> <sub>(2023.09 ~ 2024.03(예정))</sub></li>
 <br/>
 
